@@ -4,7 +4,7 @@
 * Location: NSYSU, 理 SC0009
 * Language: 中文
 
-<img src="./images/Lecture_GeneralPhysics_2023Feb_QR.png" alt="QRcode" width="200px"/>
+<img src="./images/qrcode.png" alt="QRcode" width="200px"/>
 
 ### TA
 - TBD
