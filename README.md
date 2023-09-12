@@ -21,7 +21,7 @@
 ## Syllabus:
 1.	測量、向量、運動 (measurements, vectors, motions; ch. 1-4; 9/06)
     - 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 3: 6, 7, 18, 26, 29, 32, 38, 39, 41; chapter 4: 7, 9, 20, 23, 32, 40, 43, 56, 67 ] [measurements_vectors_motions](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/measurements_vectors_motions.pdf)
-2.	力、運動、動能與功 (force, motion, work; ch. 5-7; 9/13) [force_motion_work](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/force_motion_work.pdf)
+2.	力、運動、動能與功 (force, motion, work; ch. 5-7; 9/13) [chapter 5: 7, 13, 28, 30, 48, 49; chapter 6: 3, 11, 16, 19, 39, 44, 45; chapter 7: 1, 14, 24] [force_motion_work](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/force_motion_work.pdf)
 3.	位能與能量守恆 (energy conservation; ch. 8; 9/20)
 4.	質心與動量 (center of mass and momentum; ch. 9; 9/27)
 5.	轉動 (rotation; ch. 10; 10/4)
