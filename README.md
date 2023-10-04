@@ -7,7 +7,7 @@
 <img src="./images/qrcode.png" alt="QRcode" width="200px"/>
 
 ### TA
-- TBD
+- 葉皓翔 (j93939343@yahoo.com.tw)
   
 ### Office Hours (理SC2006-3)
 - Location: **理SC2006-3**
