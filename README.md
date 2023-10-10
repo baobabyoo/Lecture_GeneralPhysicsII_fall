@@ -25,7 +25,7 @@
 3.	位能與能量守恆 (energy conservation; ch. 8; 9/20) [chapter 8: 2, 10, 17, 21, 26, 34, 51][potential_energy_Econservation](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/PotentialEnergy_Econservation.pdf)
 4.	質心與動量 (center of mass and momentum; ch. 9; 9/27) [chapter 9: 1, 2, 5, 6, 7, 12, 13, 19, 26, 30, 42, 53, 59 (及閱讀課本chapter 9-9)] [center_of_mass_and_LinearMomentum](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/com_momentum.pdf)
 5.	轉動 (rotation; ch. 10; 10/4) [rotation](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/rotation.pdf)
-6.	力矩與角動量 (torque and angular momentum; ch. 11; 10//11)
+6.	力矩與角動量 (torque and angular momentum; ch. 11; 10//11) [Angular Momentum](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/angular_momentum.pdf)
 7.	重力 (gravitation; ch .13; 10/18)
 8.	期中考 (10/25)
 9.	平衡、彈性、流體 (elasticity, fluid; ch. 12, 14; 11/01)
