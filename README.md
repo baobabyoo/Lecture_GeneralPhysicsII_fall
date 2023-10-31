@@ -8,6 +8,9 @@
 
 ### TA
 - 葉皓翔 (j93939343@yahoo.com.tw)
+
+### 學習輔導角落助教
+- 洪懌平
   
 ### Office Hours (理SC2006-3)
 - Location: **理SC2006-3**
