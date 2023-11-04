@@ -32,7 +32,7 @@
 7.	重力 (gravitation; ch .13; 10/18) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 13: 10, 11, 14, 15, 21, 48] [Gravitation](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/gravitation.pdf)
 8.	期中考 (10/25)
 9.	平衡、彈性、流體 (elasticity, fluid; ch. 12, 14; 11/01) [Equilibrium and Elasticity](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/equilibrium_elasticity.pdf) [Fluids](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/fluids.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 14: 1, 3, 7, 15, 31, 45, 54] **作業(Nov. 15上課時繳交，逾時不收) [chapter 14: 14, 34]** 
-10.	諧震 (oscillations; ch. 15; 11/08)
+10.	諧震 (oscillations; ch. 15; 11/08) [Oscillation](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/oscillation.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 15: 2, 4, 10, 30] **作業(Nov. 15上課時繳交，逾時不收) [chapter 15: 39, 54]** 
 11.	波動 I (waves I; ch. 16; 11/15)
 12.	波動 II (waves II; ch. 17; 11/22)
 13.	溫度、熱 (temperature, heat; ch. 18; 11/29)
