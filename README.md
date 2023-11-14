@@ -33,7 +33,7 @@
 8.	期中考 (10/25)
 9.	平衡、彈性、流體 (elasticity, fluid; ch. 12, 14; 11/01) [Equilibrium and Elasticity](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/equilibrium_elasticity.pdf) [Fluids](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/fluids.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 14: 1, 3, 7, 15, 31, 45, 54] **作業(Nov. 15上課時繳交，逾時不收) [chapter 14: 14, 34]** 
 10.	諧震 (oscillations; ch. 15; 11/08) [Oscillation](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/oscillation.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 15: 2, 4, 10, 30] **作業(Nov. 15上課時繳交，逾時不收) [chapter 15: 39, 54]** 
-11.	波動 I (waves I; ch. 16; 11/15) 建議做習題 (應至少看過一遍題目，確定自>己會做): [chapter 16: 2, 3, 5, 6, 33, 34, 35] **作業(Nov. 29上課時繳交，逾時不收) [chapter 16: 9, 51]**
+11.	波動 I (waves I; ch. 16; 11/15) [Wave 1](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/wave1.pdf) 建議做習題 (應至少看過一遍題目，確定自>己會做): [chapter 16: 2, 3, 5, 6, 33, 34, 35] **作業(Nov. 29上課時繳交，逾時不收) [chapter 16: 9, 51]**
 12.	波動 II (waves II; ch. 17; 11/22)
 13.	溫度、熱 (temperature, heat; ch. 18; 11/29)
 14.	氣體運動理論 (kinetic theory of gas; ch. 19; 12/06)
