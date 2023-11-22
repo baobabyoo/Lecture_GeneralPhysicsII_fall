@@ -11,7 +11,7 @@
 
 ### 學習輔導角落助教
 - 洪懌平
-  
+
 ### Office Hours (理SC2006-3)
 - Location: **理SC2006-3**
 - Time periods: Wed. 12:00-14:00; Thur. 10:00-12:00
@@ -31,13 +31,13 @@
 6.	力矩與角動量 (torque and angular momentum; ch. 11; 10//11) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 11: 1, 6, 7, 8, 9, 17, 22, 46, 52] [Angular Momentum](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/angular_momentum.pdf)
 7.	重力 (gravitation; ch .13; 10/18) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 13: 10, 11, 14, 15, 21, 48] [Gravitation](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/gravitation.pdf)
 8.	期中考 (10/25)
-9.	平衡、彈性、流體 (elasticity, fluid; ch. 12, 14; 11/01) [Equilibrium and Elasticity](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/equilibrium_elasticity.pdf) [Fluids](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/fluids.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 14: 1, 3, 7, 15, 31, 45, 54] **作業(Nov. 15上課時繳交，逾時不收) [chapter 14: 14, 34]** 
-10.	諧震 (oscillations; ch. 15; 11/08) [Oscillation](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/oscillation.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 15: 2, 4, 10, 30] **作業(Nov. 15上課時繳交，逾時不收) [chapter 15: 39, 54]** 
-11.	波動 I (waves I; ch. 16; 11/15) [Wave 1](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/wave1.pdf) 建議做習題 (應至少看過一遍題目，確定自>己會做): [chapter 16: 2, 3, 5, 6, 33, 34, 35] **作業(Nov. 29上課時繳交，逾時不收) [chapter 16: 9, 51]**
+9.	平衡、彈性、流體 (elasticity, fluid; ch. 12, 14; 11/01) [Equilibrium and Elasticity](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/equilibrium_elasticity.pdf) [Fluids](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/fluids.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 14: 1, 3, 7, 15, 31, 45, 54] **作業(Nov. 15上課時繳交，逾時不收) [chapter 14: 14, 34]**
+10.	諧震 (oscillations; ch. 15; 11/08) [Oscillation](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/oscillation.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 15: 2, 4, 10, 30] **作業(Nov. 15上課時繳交，逾時不收) [chapter 15: 39, 54]**
+11.	波動 I (waves I; ch. 16; 11/15) [Wave 1](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/wave1.pdf) 建議做習題 (應至少看過一遍題目，確定自>己會做): [chapter 16: 2, 3, 5, 6, 33, 34, 35; chapter 17: 1, 10, 21, 36, 40] **作業(Nov. 29上課時繳交，逾時不收) [chapter 16: 9, 51; chapter 17: 20, 44]**
 12.	波動 II (waves II; ch. 17; 11/22)
 13.	溫度、熱 (temperature, heat; ch. 18; 11/29)
 14.	氣體運動理論 (kinetic theory of gas; ch. 19; 12/06)
-15.	熵 (entropy, 2nd law of thermodynamics; ch. 20; 12/13) 
+15.	熵 (entropy, 2nd law of thermodynamics; ch. 20; 12/13)
 16.	期末考 (12/20)
 
 ## Goal:
@@ -56,5 +56,3 @@
 
 ## Suggested Textbooks:
 1. Jearl Walker, David Halliday, Robert Resnick, Principles of Physics 11th Edition.
-
-
