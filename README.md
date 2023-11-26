@@ -35,7 +35,7 @@
 10.	諧震 (oscillations; ch. 15; 11/08) [Oscillation](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/oscillation.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 15: 2, 4, 10, 30] **作業(Nov. 15上課時繳交，逾時不收) [chapter 15: 39, 54]**
 11.	波動 I (waves I; ch. 16; 11/15) [Wave 1](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/wave1.pdf) 建議做習題 (應至少看過一遍題目，確定自>己會做): [chapter 16: 2, 3, 5, 6, 33, 34, 35; chapter 17: 1, 10, 21, 36, 40] **作業(Nov. 29上課時繳交，逾時不收) [chapter 16: 9, 51; chapter 17: 20, 44]**
 12.	波動 II (waves II; ch. 17; 11/22)
-13.	溫度、熱 (temperature, heat; ch. 18; 11/29)
+13.	溫度、熱 (temperature, heat; ch. 18; 11/29) **作業(Dec. 06上課時繳交，逾時不收) [chapter 18: 44, 51, 54, 55]**
 14.	氣體運動理論 (kinetic theory of gas; ch. 19; 12/06)
 15.	熵 (entropy, 2nd law of thermodynamics; ch. 20; 12/13)
 16.	期末考 (12/20)
