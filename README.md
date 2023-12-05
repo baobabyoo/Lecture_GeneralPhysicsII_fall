@@ -37,7 +37,7 @@
 12.	波動 II (waves II; ch. 17; 11/22)
 13.	溫度、熱 (temperature, heat; ch. 18; 11/29) [Thermodynamics 1](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/thermodynamics.pdf) **作業(Dec. 06上課時繳交，逾時不收) [chapter 18: 44, 51, 54, 55]**
 14.	氣體運動理論 (kinetic theory of gas; ch. 19; 12/06) [Thermodynamics 2](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/thermodynamics2.pdf)  建議做習題 (應至少看過一遍題目，確定自>己會做): [chapter 19: 2(a), 4, 7, 8] **作業(Dec. 13上課時繳交，逾時不收) [chapter 19: 1, 10, 12, 13]**
-15.	熵 (entropy, 2nd law of thermodynamics; ch. 20; 12/13) [Thermodynamics 3](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/thermodynamic3.pdf)  建議做習題 (應至少看過一遍題目，確定自>己會做): [chapter 20: 4, 25, 29] **作業(Dec. 20考試前交給助教，逾時不收) [chapter 20: 1, 2, 3, 11]**
+15.	熵 (entropy, 2nd law of thermodynamics; ch. 20; 12/13) [Thermodynamics 3](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_2023Sep_ChemDept/blob/main/lecture_notes/thermodynamics3.pdf)  建議做習題 (應至少看過一遍題目，確定自>己會做): [chapter 20: 4, 25, 29] **作業(Dec. 20考試前交給助教，逾時不收) [chapter 20: 1, 2, 3, 11]**
 16.	期末考 (12/20)
 
 
