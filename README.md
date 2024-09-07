@@ -23,39 +23,22 @@
 
 ## Syllabus:
 1.	平衡、彈性、流體 (elasticity, fluid; ch. 12, 14; 9/11) [Equilibrium and Elasticity](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/equilibrium_elasticity.pdf) [Fluids](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/fluids.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 14: 1, 3, 7, 14, 15, 31, 34, 45, 54]
-
 2.	平衡、彈性、流體 (elasticity, fluid; ch. 12, 14; 9/18) 
-
 3.	彈性學習 (閱讀課本 ch. 1~7; 9/25) 
-
 4.      諧震 (oscillations; ch. 15; 10/02) [Oscillation](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/oscillation.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 15: 2, 4, 10, 30, 39, 54]
-
 5.      彈性學習 (閱讀課本 ch. 8~15; 10/9)
-
 6.      諧震 (oscillations; ch. 15; 10/16)
-
 7.      期中考 (10/23)
-
 8.      波動 1 (waves I; ch. 16; 10/30) [Wave 1](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/wave1.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 16: 2, 3, 5, 6, 9, 33, 34, 35, 51; chapter 17: 1, 10, 20, 21, 36, 40, 44]
-
 9.      波動 2 (waves II; ch. 16; 11/06)
-
 10.	波動 3 (waves III; ch. 17; 11/13)
-
 11.	波動 4 (waves IV; ch. 17; 11/20)
-
 12.	溫度、熱 (temperature, heat; ch. 18; 11/27) [Thermodynamics 1](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/thermodynamics.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 18: 44, 51, 54, 55]
-
 13.	溫度、熱 (temperature, heat; ch. 18; 12/04)
-
 14.	氣體運動理論 (kinetic theory of gas; ch. 19; 12/11) [Thermodynamics 2](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/thermodynamics2.pdf)  建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 19: 1, 2(a), 4, 7, 8, 10, 12, 13]
-
 15.	氣體運動理論 (kinetic theory of gas; ch. 19; 12/18)
-
 16.	熵 (entropy, 2nd law of thermodynamics; ch. 20; 12/25) [Thermodynamics 3](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/thermodynamics3.pdf)  建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 20: 1, 2, 3, 4, 11, 25, 29]
-
 17.	元旦放假 (1/1; Jan. 2或3挑一天補課) 
-
 16.	期末考 (1/08)
 
 
