@@ -1,23 +1,23 @@
-# Lecture: General Physics I
-* Time: (2023 September 06 - December 20) 234節, Wednesday
+# Lecture: General Physics I (PHY102)
+* Time: (2024 September 08 - 2025 January 11) 567節, Wednesday
 * Lecturer: [Hauyu Baobab Liu](https://baobabyoo.github.io/) (呂浩宇)
-* Location: NSYSU, 理 SC0009
+* Location: NSYSU, 理 SC1003
 * Language: 中文
 
 <img src="./images/qrcode.png" alt="QRcode" width="200px"/>
 
 ### TA
-- 葉皓翔 (j93939343@yahoo.com.tw)
+- 林郁珊
 
 ### 學習輔導角落助教
-- 洪懌平
+- TBA
 
 ### Office Hours (理SC2006-3)
 - Location: **理SC2006-3**
-- Time periods: Wed. 12:00-14:00; Thur. 10:00-12:00
+- Time periods: Wed. 11:00-13:00; Thur. 10:00-12:00
 
 ## 其它規定:
-辦公室環境密閉通風不良。為免辦公室內同學受傳染病影響，未戴口罩不得進入我辦公室。有呼吸道症狀者一律不準進入我辦公室。
+辦公室環境密閉通風不良，未戴口罩不得進入我辦公室。有呼吸道症狀者一律不準進入我辦公室。
 
 ### Homework and Suggested Problem Sets:
 
