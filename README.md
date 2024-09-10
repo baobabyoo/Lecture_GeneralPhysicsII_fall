@@ -7,7 +7,7 @@
 <img src="./images/qrcode.png" alt="QRcode" width="200px"/>
 
 ### TA
-- 林郁珊
+- 林郁珊 (a0929001941@gmail.com)
 
 ### 學習輔導角落助教
 - TBA
