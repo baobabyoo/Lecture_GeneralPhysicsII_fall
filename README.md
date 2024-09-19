@@ -20,8 +20,11 @@
 辦公室環境密閉通風不良，未戴口罩不得進入我辦公室。有呼吸道症狀者一律不準進入我辦公室。
 
 ### Homework and Suggested Problem Sets:
+#### Jearl Walker, David Halliday, Robert Resnick, Principles of Physics 12th Edition 建議習題:
+- ch. 12: 1, 3, 9, 15, 21, 45
+- ch. 14: 1, 3, 7, 9, 15, 19, 21, 33, 43, 55
 
-## Syllabus:
+## Syllabus (以下建議做的習題皆為Halidays第11版課本題目):
 1.	平衡、彈性、流體 (elasticity, fluid; ch. 12, 14; 9/11) [Equilibrium and Elasticity](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/equilibrium_elasticity.pdf) [Fluids](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/fluids.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 14: 1, 3, 7, 14, 15, 31, 34, 45, 54]
 2.	平衡、彈性、流體 (elasticity, fluid; ch. 12, 14; 9/18) 
 3.	彈性學習 (閱讀課本 ch. 1,2,3,4,5,6,7; 9/25) 
