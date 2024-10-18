@@ -32,7 +32,7 @@
 4.	諧震 (oscillations; ch. 15; 10/02) [Oscillation](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/oscillation.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 15: 2, 4, 10, 30, 39, 54]
 5.	彈性學習 (閱讀課本 ch. 8,9,10,11,12,13,14,15,15; 10/9)
 6.	諧震 (oscillations; ch. 15; 10/16) 
-7.	波動 1 (waves I; ch. 16; 10/23) 課後自由參加對轉動運動的講解，約一到兩小時。 [Wave 1](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/wave1.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 16: 2, 3, 5, 6, 9, 33, 34, 35, 51; chapter 17: 1, 10, 20, 21, 36, 40, 44]
+7.	波動 1 (waves I; ch. 16; 10/23) 課後自由參加對轉動運動的講解，約一到兩小時 [Rotation](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/rotation.pdf)。 [Wave 1](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/wave1.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 16: 2, 3, 5, 6, 9, 33, 34, 35, 51; chapter 17: 1, 10, 20, 21, 36, 40, 44]
 8.	期中考 (10/30) 
 9.	波動 2 (waves II; ch. 16; 11/06)
 10.	波動 3 (waves III; ch. 17; 11/13)
