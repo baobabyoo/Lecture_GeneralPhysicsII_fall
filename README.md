@@ -33,17 +33,15 @@
 5.	彈性學習 (閱讀課本 ch. 8,9,10,11,12,13,14,15,15; 10/9)
 6.	諧震 (oscillations; ch. 15; 10/16) 
 7.	波動 1 (waves I; ch. 16; 10/23) 課後自由參加對轉動運動的講解，約一到兩小時。 [Wave 1](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/wave1.pdf) [Rotation](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/rotation.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 16: 2, 3, 5, 6, 9, 33, 34, 35, 51; chapter 17: 1, 10, 20, 21, 36, 40, 44]
-8.	期中考 1.5 hrs / 波動 1 1.5 hrs (10/30) 
-9.	波動 2 (waves II; ch. 16; 11/06)
-10.	波動 3 (waves III; ch. 17; 11/13)
-11.	波動 4 (waves IV; ch. 17; 11/20)
-12.	溫度、熱 (temperature, heat; ch. 18; 11/27) [Thermodynamics 1](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/thermodynamics.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 18: 44, 51, 54, 55]
-13.	溫度、熱 (temperature, heat; ch. 18; 12/04)
-14.	氣體運動理論 (kinetic theory of gas; ch. 19; 12/11) [Thermodynamics 2](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/thermodynamics2.pdf)  建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 19: 1, 2(a), 4, 7, 8, 10, 12, 13]
-15.	氣體運動理論 (kinetic theory of gas; ch. 19; 12/18)
-16.	熵 (entropy, 2nd law of thermodynamics; ch. 20; 12/25) 課後期末考 (7-9 pm)。 [Thermodynamics 3](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/thermodynamics3.pdf)  建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 20: 1, 2, 3, 4, 11, 25, 29]
-
-
+8.	期中考 1.5 hrs / 波動 2 1.5 hrs (10/30) 
+9.	波動 3 (waves III; ch. 17; 11/06)
+10.	波動 4 (waves IV; ch. 17; 11/13)
+11.	溫度、熱 (temperature, heat; ch. 18; 11/20) [Thermodynamics 1](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/thermodynamics.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 18: 44, 51, 54, 55]
+12.	溫度、熱 (temperature, heat; ch. 18; 11/27)
+13.	氣體運動理論 (kinetic theory of gas; ch. 19; 12/04) [Thermodynamics 2](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/thermodynamics2.pdf)  建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 19: 1, 2(a), 4, 7, 8, 10, 12, 13]
+14.	氣體運動理論 (kinetic theory of gas; ch. 19; 12/11) 
+15.	熵 (entropy, 2nd law of thermodynamics; ch. 19; 12/18) [Thermodynamics 3](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/thermodynamics3.pdf)  建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 20: 1, 2, 3, 4, 11, 25, 29]
+16.	熵 (entropy, 2nd law of thermodynamics; ch. 20; 12/25) 課後期末考 (7-9 pm)。 
 
 ## Goal:
 1. Knowing basic thermal physics.
