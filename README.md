@@ -24,6 +24,11 @@
 - ch. 12: 1, 3, 9, 15, 21, 45
 - ch. 14: 1, 3, 7, 9, 15, 19, 21, 33, 43, 55
 - ch. 15: 1, 5, 9, 17, 27, 45, 49, 59
+- ch. 16: 1, 5, 11, 35
+- ch. 17: 7, 9, 15, 23, 39, 63
+- ch. 18: 1, 3, 5, 7, 11, 15, 19, 39
+- ch. 19: 1, 3, 5, 7, 19, 23, 37, 41, 59
+- ch. 20: 1, 5, 9, 13, 27, 33
 
 ## Syllabus (以下建議做的習題皆為Halidays第11版課本題目):
 1.	平衡、彈性、流體 (elasticity, fluid; ch. 12, 14; 9/11) [Equilibrium and Elasticity](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/equilibrium_elasticity.pdf) [Fluids](https://github.com/baobabyoo/Lecture_GeneralPhysicsII_fall/blob/main/lecture_notes/fluids.pdf) 建議做習題 (應至少看過一遍題目，確定自己會做): [chapter 14: 1, 3, 7, 14, 15, 31, 34, 45, 54]
